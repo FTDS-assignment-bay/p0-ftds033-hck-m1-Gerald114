@@ -2,31 +2,32 @@
 
 ## Repository Outline
 `Bagian ini menjelaskan secara singkat konten/isi dari file yang dipush ke repository`
-
-Contoh:
 ```
 1. README.md - Penjelasan gambaran umum project
-2. notebook.ipynb - Notebook yang berisi pengolahan data dengan python
-dst.
+2. P0M1_Gerald.ipynb - Notebook yang berisi pengolahan data, data cleaning, analisis, serta visualisasi
+3. P0M1_Gerald_dataset.csv - File dataset utama untuk melakukan pengerjaan
+4. P0M1_Gerald_dataset_cleaned.csv - File csv hasil proses data cleaning
+5. assignment-rubrics.png - Berisi poin-poin yang menjadi penilaian
 ```
 
 ## Problem Background
-`Bagian ini menjelaskan masalah yang diselesaikan pada project ini beserta latar belakang masalahnya secara singkat`
+`Supermarket menghadapi tantangan ingin  meningkatkan pelanggan dan profitabilitas penjualan di berbagai cabang. Namun manajemen kesulitan mengidentifikasi faktor-faktor utama yang memengaruhi pendapatan, margin keuntungan, serta kepuasan pelanggan. Tujuan utama analisis ini adalah untuk meningkatkan pendapatan cabang pasar sebesar >= 10%, dan peningkatan rating pelanggan ke 8.0 dalam waktu 2 kuartil(6 bulan)`
 
 ## Project Output
-`Bagian ini menjelaskan secara singkat output projectnya apa, misal model machine learning, dasboard, dsb.`
+`Output project ini berupa hasil data cleaning, hasil analisis, visualisasi data, dashboard : https://public.tableau.com/views/P0M1_Gerald/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
 
 ## Data
-`Bagian ini menjelaskan secara singkat mengenai data yang digunakan seperti sumber data, deskripsi singkat karakteristik data seperti jumlah kolom, baris data, missing values, dsb`
+`Dataset ini diambil dari kaggle : https://www.kaggle.com/datasets/akashbommidi/super-market-sales?resource=download`
+`Dengan jumlah kolom 17 dan baris 1000`
 
 ## Method
-`Bagian ini menjelaskan metode yang digunakan pada project, misal project ini mengenai machine learning sehingga metode yang dipakai adalah model supervised learning dengan model KNN`
+`Menggunakan method data loading, data cleaning, EDA, Uji hipotesis, dan visualisasi data`
 
 ## Stacks
-`Bagian ini menjelaskan stacks yang digunakan seperti bahasa pemrograman, tools, dan library Python yang digunakan`
+`python, notebook, pandas, numpy, matplotlib.pyplot, seaborn, dan scipy`
 
 ## Reference
-`Bagian ini berisi link pendukung seperti referensi, dashboard, atau deployment`
+`https://www.kaggle.com/datasets/akashbommidi/super-market-sales?resource=download, GC dan LC sebelumnya`
 
 ---
 
