@@ -27,7 +27,7 @@
 `python, notebook, pandas, numpy, matplotlib.pyplot, seaborn, dan scipy`
 
 ## Reference
-`https://www.kaggle.com/datasets/akashbommidi/super-market-sales?resource=download, GC dan LC sebelumnya`
+`https://www.kaggle.com/datasets/akashbommidi/super-market-sales?resource=download`
 
 ---
 
